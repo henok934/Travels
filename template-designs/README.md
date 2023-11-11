@@ -37,7 +37,7 @@ git clone https://github.com/henok934/Ticket.git
  Change the directory
 
 ```bash
-cd Ticket/main/projects/template_design
+cd Travels/template_design
 ```
 
 - Install the dependencies
